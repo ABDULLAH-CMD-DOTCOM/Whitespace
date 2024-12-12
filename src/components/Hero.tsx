@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="bg-[#043873] w-full h-screen flex flex-col items-center justify-center p-4">
       <div className="flex flex-col md:flex-row items-center justify-center space-y-10 md:space-y-0 md:space-x-10">
         <div className="text-center md:text-left max-w-xl">
-          <p className="text-white text-[28px] md:text-[32px] font-bold leading-tight">
+          <p className="text-white text-2xl md:text-[32px] font-bold leading-tight">
             Get more done with <br /> Witespace
           </p>
           <p className="text-white text-[14px] md:text-[18px] leading-relaxed mt-4">
